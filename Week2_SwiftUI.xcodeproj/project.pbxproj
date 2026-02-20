@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		B03E09322F4839620000E44B /* ReadTrackerB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReadTrackerB.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F7CD9AB2F46E31900E32E1C /* Week2_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Week2_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B03E09342F4839620000E44B /* ReadTrackerB */ = {
+		3F7CD9AD2F46E31900E32E1C /* Week2_SwiftUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ReadTrackerB;
+			path = Week2_SwiftUI;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B03E092F2F4839620000E44B /* Frameworks */ = {
+		3F7CD9A82F46E31900E32E1C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B03E09292F4839620000E44B = {
+		3F7CD9A22F46E31900E32E1C = {
 			isa = PBXGroup;
 			children = (
-				B03E09342F4839620000E44B /* ReadTrackerB */,
-				B03E09332F4839620000E44B /* Products */,
+				3F7CD9AD2F46E31900E32E1C /* Week2_SwiftUI */,
+				3F7CD9AC2F46E31900E32E1C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B03E09332F4839620000E44B /* Products */ = {
+		3F7CD9AC2F46E31900E32E1C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B03E09322F4839620000E44B /* ReadTrackerB.app */,
+				3F7CD9AB2F46E31900E32E1C /* Week2_SwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B03E09312F4839620000E44B /* ReadTrackerB */ = {
+		3F7CD9AA2F46E31900E32E1C /* Week2_SwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B03E093D2F4839630000E44B /* Build configuration list for PBXNativeTarget "ReadTrackerB" */;
+			buildConfigurationList = 3F7CD9B62F46E31A00E32E1C /* Build configuration list for PBXNativeTarget "Week2_SwiftUI" */;
 			buildPhases = (
-				B03E092E2F4839620000E44B /* Sources */,
-				B03E092F2F4839620000E44B /* Frameworks */,
-				B03E09302F4839620000E44B /* Resources */,
+				3F7CD9A72F46E31900E32E1C /* Sources */,
+				3F7CD9A82F46E31900E32E1C /* Frameworks */,
+				3F7CD9A92F46E31900E32E1C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B03E09342F4839620000E44B /* ReadTrackerB */,
+				3F7CD9AD2F46E31900E32E1C /* Week2_SwiftUI */,
 			);
-			name = ReadTrackerB;
+			name = Week2_SwiftUI;
 			packageProductDependencies = (
 			);
-			productName = ReadTrackerB;
-			productReference = B03E09322F4839620000E44B /* ReadTrackerB.app */;
+			productName = Week2_SwiftUI;
+			productReference = 3F7CD9AB2F46E31900E32E1C /* Week2_SwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B03E092A2F4839620000E44B /* Project object */ = {
+		3F7CD9A32F46E31900E32E1C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					B03E09312F4839620000E44B = {
+					3F7CD9AA2F46E31900E32E1C = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = B03E092D2F4839620000E44B /* Build configuration list for PBXProject "ReadTrackerB" */;
+			buildConfigurationList = 3F7CD9A62F46E31900E32E1C /* Build configuration list for PBXProject "Week2_SwiftUI" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = B03E09292F4839620000E44B;
+			mainGroup = 3F7CD9A22F46E31900E32E1C;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = B03E09332F4839620000E44B /* Products */;
+			productRefGroup = 3F7CD9AC2F46E31900E32E1C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B03E09312F4839620000E44B /* ReadTrackerB */,
+				3F7CD9AA2F46E31900E32E1C /* Week2_SwiftUI */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B03E09302F4839620000E44B /* Resources */ = {
+		3F7CD9A92F46E31900E32E1C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B03E092E2F4839620000E44B /* Sources */ = {
+		3F7CD9A72F46E31900E32E1C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B03E093B2F4839630000E44B /* Debug */ = {
+		3F7CD9B42F46E31A00E32E1C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		B03E093C2F4839630000E44B /* Release */ = {
+		3F7CD9B52F46E31A00E32E1C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		B03E093E2F4839630000E44B /* Debug */ = {
+		3F7CD9B72F46E31A00E32E1C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -263,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jason.ReadTrackerB;
+				PRODUCT_BUNDLE_IDENTIFIER = "imt.Week2-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -275,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		B03E093F2F4839630000E44B /* Release */ = {
+		3F7CD9B82F46E31A00E32E1C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jason.ReadTrackerB;
+				PRODUCT_BUNDLE_IDENTIFIER = "imt.Week2-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B03E092D2F4839620000E44B /* Build configuration list for PBXProject "ReadTrackerB" */ = {
+		3F7CD9A62F46E31900E32E1C /* Build configuration list for PBXProject "Week2_SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B03E093B2F4839630000E44B /* Debug */,
-				B03E093C2F4839630000E44B /* Release */,
+				3F7CD9B42F46E31A00E32E1C /* Debug */,
+				3F7CD9B52F46E31A00E32E1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B03E093D2F4839630000E44B /* Build configuration list for PBXNativeTarget "ReadTrackerB" */ = {
+		3F7CD9B62F46E31A00E32E1C /* Build configuration list for PBXNativeTarget "Week2_SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B03E093E2F4839630000E44B /* Debug */,
-				B03E093F2F4839630000E44B /* Release */,
+				3F7CD9B72F46E31A00E32E1C /* Debug */,
+				3F7CD9B82F46E31A00E32E1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B03E092A2F4839620000E44B /* Project object */;
+	rootObject = 3F7CD9A32F46E31900E32E1C /* Project object */;
 }

@@ -1,14 +1,14 @@
 //
-//  ReadTrackerBApp.swift
-//  ReadTrackerB
+//  Week2_SwiftUIApp.swift
+//  Week2_SwiftUI
 //
-//  Created by Jason TIo on 20/02/26.
+//  Created by student on 19/02/26.
 //
 
 import SwiftUI
 
 @main
-struct ReadTrackerBApp: App {
+struct Week2_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
